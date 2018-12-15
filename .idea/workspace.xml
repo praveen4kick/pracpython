@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d8ef64f-9d79-4157-958a-7fc54d528478" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Data Types/Variables/Variables ans functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Types/Dict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Types/Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Types/Numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Types/Others.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Types/Strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Types/Tuples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Types/Variables.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,28 +21,47 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="11" />
+          <entry key="py" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="11" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="403" />
+          <entry key="py" value="531" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="403" />
+          <entry key="Python" value="531" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data Types/Variables/prog1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data Types/Variables/Variables ans functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,12 +85,15 @@
         <option value="$PROJECT_DIR$/Data Types/Dict.py" />
         <option value="$PROJECT_DIR$/Data Types/Others.py" />
         <option value="$PROJECT_DIR$/Data Types/Variables.py" />
+        <option value="$PROJECT_DIR$/Data Types/Variables/1stprog.py" />
+        <option value="$PROJECT_DIR$/Data Types/Variables/prog1.py" />
+        <option value="$PROJECT_DIR$/Data Types/Variables/Variables ans functions.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1132" />
-    <option name="y" value="78" />
+    <option name="x" value="1016" />
+    <option name="y" value="103" />
     <option name="width" value="780" />
     <option name="height" value="755" />
   </component>
@@ -101,6 +117,12 @@
               <item name="pracpython" type="462c0819:PsiDirectoryNode" />
               <item name="Data Types" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pracpython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pracpython" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Types" type="462c0819:PsiDirectoryNode" />
+              <item name="Variables" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -120,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.prog1">
+  <component name="RunManager" selected="Python.Variables ans functions">
     <configuration name="1stprog (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pracpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1stprogm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Variables ans functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pracpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Types/Variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1stprogm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Types/Variables/Variables ans functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,19 +249,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1stprogm" />
       <item itemvalue="Python.1stprog" />
       <item itemvalue="Python.Variables" />
       <item itemvalue="Python.1stprog (1)" />
       <item itemvalue="Python.prog1" />
+      <item itemvalue="Python.Variables ans functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Variables ans functions" />
         <item itemvalue="Python.prog1" />
         <item itemvalue="Python.1stprog (1)" />
         <item itemvalue="Python.Variables" />
         <item itemvalue="Python.1stprog" />
-        <item itemvalue="Python.1stprogm" />
       </list>
     </recent_temporary>
   </component>
@@ -257,18 +279,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="906" y="63" width="624" height="604" extended-state="0" />
+    <frame x="813" y="83" width="624" height="604" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43611583" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.43611583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32908705" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -316,6 +339,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Types/Variables.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Types/Variables/1stprog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Types/Variables/prog1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Types/Variables/Variables ans functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
